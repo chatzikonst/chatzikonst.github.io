@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-overlay_image: /assets/brugge.jpg
+image: /assets/brugge.jpg
 ---
