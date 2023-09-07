@@ -4,5 +4,6 @@
 
 layout: single
 title: Page Title
+header:
 image: /assets/brugge.jpg
 ---
