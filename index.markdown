@@ -4,5 +4,9 @@
 
 layout: home
 title: Page Title
-image: /assets/brugge.jpg
+header:
+  image: /assets/brugge.jpg
+  image_description: "A description of the image"
+  actions:
+    - label: "More Info"
 ---
