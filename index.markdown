@@ -4,6 +4,5 @@
 
 layout: home
 title: Page Title
-header:
 image: /assets/brugge.jpg
 ---
