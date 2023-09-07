@@ -3,6 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-header: 
-  image: /assets/thess.jpg
+image: /assets/thess.jpg
 ---
