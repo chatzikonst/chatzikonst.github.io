@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Page Title
-header:
-  image: /assets/brugge.jpg
+header: A curious biostatistician
+  image: /assets/thess.jpg
 ---
