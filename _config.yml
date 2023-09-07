@@ -56,3 +56,6 @@ plugins:
 # remote_theme: mmistakes/minimal-mistakes
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+header:
+  image: /assets/brugge.jpg
